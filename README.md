@@ -1,4 +1,5 @@
 # The Based License
+###### v1.3.2
 
 A based, copyleft, libre, anti-NFT code license.
 
