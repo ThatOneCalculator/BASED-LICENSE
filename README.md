@@ -1,6 +1,6 @@
 # The Based License
 
-A based, copyleft, libre, anti-NFT code and media license.
+A based, copyleft, libre, anti-NFT code license.
 
 
 The based license is licensed under the based license.
