@@ -1,5 +1,5 @@
 # The Based License summary
-### This is a non-legally binding, simple summary of the based license
+### This is a non-legally binding, simple summary of the Based License
 
 - You can't claim the software as your own and must give credit to the original author if you're redistributing/modifying it
 - You have to have any other versions of the software (including modifications) be open source and under the based license
