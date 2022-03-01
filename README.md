@@ -1,4 +1,4 @@
-# BASED-LICENSE
+# The Based License
 
 A based, copyleft, libre, anti-NFT code and media license.
 
