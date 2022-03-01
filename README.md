@@ -8,4 +8,4 @@ To use, simply copy the contents of [LICENSE](./license), replace the holder and
 
 ![](https://pool.jortage.com/voringme/misskey/8b3a3413-e999-410a-ac69-950db8be9262.webp)
 
-The ASCII art in the license is from here: https://copypastatext.com/tag/gigachad-ascii-art/#
+The ASCII art in the license is from here: https://copypastatext.com/tag/gigachad-ascii-art
