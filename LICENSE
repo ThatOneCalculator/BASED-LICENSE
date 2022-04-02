@@ -1,6 +1,6 @@
                    The Based License v1.3.6
 
-Used by <software author(s)> on <day month year>
+Used by <software author(s)> on <date DD MM YYYY>.
 Written by Kainoa Kanter (ThatOneCalculator) on 1 March, 2022
 
 ---
@@ -14,8 +14,8 @@ https://github.com/ThatOneCalculator/BASED-LICENSE/blob/main/SUMMARY.md
 
 ---
 
-While the software author(s) can modifify the based license, you have to state below if it was and if so,
-how it was modified.
+While the software author(s) can modifify the Based License, any and all revisions must be stated below,
+including how it was modified.
 
 Have the license terms been modified? If so, how was it modified?
 * No, the terms in this copy of the based license has not been modified. *
@@ -24,10 +24,12 @@ Have the license terms been modified? If so, how was it modified?
 
 BEGIN LICENSE TERMS
 
+All references of "license", "the license", or "Based License" refer to the software license located at https://github.com/ThatOneCalculator/BASED-LICENSE/blob/main/LICENSE. References to "the software" refer to the program(s) in which this license is used. "The author(s)" and "the contributor(s)" refer to the author(s) and contributor(s) of the software using the license, unless otherwise stated.
+
 All copies of this software that are redistributed (INCLUDING modifications to the software)
-must have their source code easily and publicly available, and also be licensed under the based license.
+must have their source code easily and publicly available, and also be licensed under the Based License.
 That means that this is a copyleft license. If the software does not contain a copy of this license, you
-can obtain a copy from https://github.com/ThatOneCalculator/BASED-LICENSE/blob/main/LICENSE
+can obtain a copy from https://github.com/ThatOneCalculator/BASED-LICENSE/blob/main/LICENSE or open an issue in the software's issue tracker.
 
 The author of this software has the right to claim the software as their own, and while anyone can contribute
 to, redistribute, and modify this software (under the based license), they cannot claim it as their own software,
@@ -46,12 +48,12 @@ non-free network services, that must also be stated clearly in the software or i
 
 This software cannot be used as a dependency in other software that is closed source.
 
-This software can be used for corporate/for-profit purposes as long as it follows every guideline in the based 
-license, including the fact that all components of said software must be open source. Binaries of this software
+This software may be used for corporate/for-profit purposes as long as it follows every guideline in the Based 
+License of the version provided by the contributors, including the fact that all components of said software must be open source. Binaries of this software
 can be sold, as long as they're bundled with the based license and a link to the source code.
 
 By using this software, you agree to the terms above. If you break the terms of this license, the author(s) of the 
-software this copy of the based license is being used for have the right to pursue legal action against you if
+software this copy of the Based License is being used for have the right to pursue legal action against you if
 violations are not resolved within one week (7 days) after being notified by the software author(s).
 
 END LICENSE TERMS
