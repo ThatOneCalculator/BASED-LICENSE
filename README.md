@@ -1,7 +1,7 @@
 # The Based License
 ###### v1.4.1
 
-### A based, copyleft, libre, anti-NFT code license.
+### A based, copyleft, [libre](https://stop.voring.me/notes/8zk7z02lgy), anti-NFT code license.
 
 The based license is licensed under the based license.
 
